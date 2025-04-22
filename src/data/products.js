@@ -9,7 +9,7 @@ export const products = [
   {
     id: 2,
     title: "Make the Keychains with Customized Names",
-    price: 249,
+    price: 250,
     image: "/keychians.png",
   },
   {
@@ -33,7 +33,7 @@ export const products = [
   {
     id: 6,
     title: "Seven the Articulated Dragon",
-    price: 3999,
+    price: 1999,
     image: "/dragon.png",
   },
 ];
