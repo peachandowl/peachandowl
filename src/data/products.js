@@ -33,7 +33,13 @@ export const products = [
   {
     id: 6,
     title: "Seven the Articulated Dragon",
-    price: 999,
+    price: 9999,
+    image: "/dragon.png",
+  },
+  {
+    id: 7,
+    title: "Seven the Articulated Dragon",
+    price: 4999,
     image: "/dragon.png",
   },
 ];
